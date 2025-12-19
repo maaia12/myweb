@@ -1,1 +1,1 @@
-function aa(){alert yeee}
+function aa(){alert ('yeee%')}
