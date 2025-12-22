@@ -1,1 +1,1 @@
-document.getElementById("ourweb").click =function aa(){alert ('yeee%')}
+document.getElementById("ourweb").addEventListener("click",function(){alert ('yeee%')}
